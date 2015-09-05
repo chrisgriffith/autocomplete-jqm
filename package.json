@@ -4,7 +4,7 @@
   "description": "jQuery Mobile Framework element and attribute autocompletions",
   "main": "./lib/main",
   "license": "MIT",
-  "repository": "https://github.com/chrisgriffith/jQuery-Mobile-Brackets-Extension",
+  "repository": "https://github.com/chrisgriffith/autocomplete-jqm",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
   },
