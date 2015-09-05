@@ -1,5 +1,5 @@
 {
-  "name": "autocomplete-jqm",
+  "name": "autocomplete-jquery-mobile",
   "version": "0.1.0",
   "description": "jQuery Mobile Framework element and attribute autocompletions",
   "main": "./lib/main",
