@@ -1,6 +1,6 @@
 {
   "name": "autocomplete-jquery-mobile",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "jQuery Mobile Framework element and attribute autocompletions",
   "main": "./lib/main",
   "license": "MIT",
